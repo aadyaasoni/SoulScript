@@ -1,0 +1,18 @@
+Label classes: ['Anxiety', 'Bipolar', 'Depression', 'Normal', 'Personality disorder', 'Stress', 'Suicidal']
+
+Recomputed Macro F1: 0.7222397164433855
+
+Classification report:
+                      precision    recall  f1-score   support
+
+             Anxiety     0.7731    0.8073    0.7898       768
+             Bipolar     0.7550    0.8147    0.7837       556
+          Depression     0.7880    0.6154    0.6911      3081
+              Normal     0.8730    0.9128    0.8925      3269
+Personality disorder     0.5564    0.7116    0.6245       215
+              Stress     0.5105    0.6576    0.5748       517
+            Suicidal     0.6640    0.7385    0.6993      2130
+
+            accuracy                         0.7611     10536
+           macro avg     0.7029    0.7511    0.7222     10536
+        weighted avg     0.7681    0.7611    0.7602     10536

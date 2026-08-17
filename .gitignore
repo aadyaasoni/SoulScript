@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+*.log
+.streamlit/secrets.toml
+data/raw/*.csv
+data/*.csv
+data/extracted/*.csv
+data/*.zip
+*.npy
+/.vscode/
+/.idea/
+*.sqlite3
+*.db
+dist/
+build/
